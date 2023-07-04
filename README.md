@@ -56,6 +56,7 @@ Go to the project directory
 ```
 
 Demo videos for  some parts:
+
 Water Potability
 
 ![EDM-part1](https://github.com/Pallavibahekar/Environmental-Data-Monitoring/assets/97456579/eb699df9-14e0-492e-83ec-8962e30067fd)
