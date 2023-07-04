@@ -16,6 +16,8 @@ Install Required Packages: The code uses several external packages. You can inst
 
 ```
 
+Also better understanding of code there are separate 4 jupyter notebooks
+
 
 ## Running the  code
 
@@ -54,17 +56,18 @@ Go to the project directory
 ```
 
 Demo videos for  some parts:
+Water Potability
 
 ![EDM-part1](https://github.com/Pallavibahekar/Environmental-Data-Monitoring/assets/97456579/eb699df9-14e0-492e-83ec-8962e30067fd)
 
-
+Air Quality
 ![EVM-part2](https://github.com/Pallavibahekar/Environmental-Data-Monitoring/assets/97456579/91a1fc9e-a7f4-4973-912e-057e5d0fdafd)
 
+Deforesation rates
 
-https://github.com/Pallavibahekar/Environmental-Data-Monitoring/assets/97456579/48650ad5-bc9e-4bd5-a1b3-8b8a970e6f4
+https://github.com/Pallavibahekar/Environmental-Data-Monitoring/assets/97456579/fe0bd935-8b3c-4628-98de-66449a6b95eb
 
-
-
+Climate Pattern
 
 https://github.com/Pallavibahekar/Environmental-Data-Monitoring/assets/97456579/1738eb70-c0f4-4a0a-bd99-98b45a7d1569
 
