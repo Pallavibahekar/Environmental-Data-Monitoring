@@ -44,7 +44,7 @@ The code will generate outputs, such as data summaries, visualizations, and pred
 Clone the project
 
 ```bash
-  git clone   https://link-to-project](https://github.com/Pallavibahekar/Environmental-Data-Monitoring.git
+  git clone   https://github.com/Pallavibahekar/Environmental-Data-Monitoring.git
 ```
 
 Go to the project directory
