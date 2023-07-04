@@ -61,9 +61,11 @@ Water Potability
 ![EDM-part1](https://github.com/Pallavibahekar/Environmental-Data-Monitoring/assets/97456579/eb699df9-14e0-492e-83ec-8962e30067fd)
 
 Air Quality
+
+
 ![EVM-part2](https://github.com/Pallavibahekar/Environmental-Data-Monitoring/assets/97456579/91a1fc9e-a7f4-4973-912e-057e5d0fdafd)
 
-Deforesation rates
+Deforestation rates
 
 https://github.com/Pallavibahekar/Environmental-Data-Monitoring/assets/97456579/fe0bd935-8b3c-4628-98de-66449a6b95eb
 
